@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "room_bridge_builder.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
